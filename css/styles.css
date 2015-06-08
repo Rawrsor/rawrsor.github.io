@@ -1,12 +1,23 @@
 body {
 	font-family: arial, verdana, sans-serif;
 	color: rgb(197,121,235);
-	padding:10px;}
+	padding:10px;
+	width: 1000px;
+	margin: 0 auto;
+}
 
 .page {
 	border: 1px solid rgb(75,75,75);
-	background-color: rgb(14,14,14);
-	padding: inherit;
+	background-color: rgb(233,233,233);
+	padding: 20px;
+	text-align: left;
+	height: 1200px;
 }
 
+.header {
+	position: 500px;
+	top: -5px;
+	left: 0px;
+	width: 1000px;
+}
 

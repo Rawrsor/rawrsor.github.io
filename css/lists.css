@@ -22,7 +22,7 @@ body {
     list-style:none;
     font-family:'Open Sans', sans-serif;
     text-decoration: none;
-    left:120px;
+    left:relative;
 }
 .menu a {
     transition:all linear 0.15s;

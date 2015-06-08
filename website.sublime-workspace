@@ -1,0 +1,413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"r",
+				"rgb()"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"back",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 958,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 331,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/lists.css",
+			"settings":
+			{
+				"buffer_size": 1582,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Drew/Documents/GitHub/rawrsor.github.io/Final Code/chapter-10/using-external-css.html",
+		"/C/Users/Drew/Documents/GitHub/rawrsor.github.io/Final Code/chapter-10/using-internal-css.html",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/spy_blue.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/spy_red.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/sniper_blue.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/sniper_red.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/medic_blue.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/medic_red.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/engineer_blue.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/engineer_red.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/heavy_blue.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/heavy_red.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/demoman_blue.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/demoman_red.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/pyro_blue.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/pyro_red.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/soldier_blue.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/soldier_red.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/scout_blue.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/scout_red.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/hudmenuspydisguise.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/--------------------------------------------.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/teammenu.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/targetid.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/spectatorguihealth.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/spectator.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/hudplayerclass.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/hudplayerhealth.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/hudobjectivetimepanel.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/hudobjectivestatus.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/hudobjectivekothtimepanel.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/hudmediccharge.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/scripts/hudlayout.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/hudkillstreaknotice.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huditemeffectmeter_spyknife.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huditemeffectmeter_spy.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huditemeffectmeter_sniperfocus.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huditemeffectmeter_sniper.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huditemeffectmeter_sodapopper.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huditemeffectmeter_scout.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huditemeffectmeter_sapper.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huditemeffectmeter_raygun.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huditemeffectmeter_powerupbottle.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huditemeffectmeter_pomson.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huditemeffectmeter_particlecannon.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huditemeffectmeter_killstreak.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huditemeffectmeter_heavy.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huditemeffectmeter_engineer.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huditemeffectmeter_demoman.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huditemeffectmeter_cleaver.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huditemeffectmeter.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/hudammoweapons.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huddemomanpipes.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/huddemomancharge.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/hudbowcharge.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/scripts/hudanimations_tf.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/hudaccountpanel.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguisestatuspanel.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/classselection.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/clientscheme.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/-------------------------------.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/-----------.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom_/cliphud-master/resource/ui/classselection.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom_/cliphud-master/resource/ui/classmenu.res",
+		"/C/Users/Drew/Dropbox/School Stuff/English 11/VisualArgumentMacbeth.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/tf2basehud-master/resource/ui/spectatorguihealth.res",
+		"/C/Program Files (x86)/Steam/steamapps/sourcemods/tf2classic/custom/qtchudp/resource/clientscheme.res",
+		"/C/Users/Drew/Documents/Rainmeter/Skins/iFlat/Weather/Weather.ini",
+		"/C/Users/Drew/Documents/Rainmeter/Skins/Chromebook Widget/Chromebook.ini",
+		"/C/Users/Drew/AppData/Local/Temp/Rar$DIa0.571/FILE_DESCRIPTIONS.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom_/_prism_hud/resource/ui/hudammoweapons.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom_/_CarrotHUD-master/resource/ui/hudammoweapons.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom_/cliphud-master/resource/ui/hudammoweapons.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/fonts/OFL.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/_CarrotHUD-master/resource/clientscheme.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/_CarrotHUD-master/fonts/Sources.txt"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"//hud",
+			"cancel",
+			"Random",
+			"model",
+			"character",
+			"classmenu",
+			"model",
+			"loadout",
+			"random",
+			"cancel",
+			"suppo",
+			"defense",
+			"offense",
+			"local",
+			"200",
+			"classtips",
+			"account",
+			"caccount",
+			"medic",
+			"25",
+			"target",
+			"//hud",
+			"target",
+			"death",
+			"dea",
+			"32",
+			"//hud",
+			"//huds",
+			"//hud fon"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 958,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								939,
+								939
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								296,
+								296
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/lists.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								442,
+								442
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "website.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
