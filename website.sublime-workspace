@@ -51,7 +51,7 @@
 			"file": "css/lists.css",
 			"settings":
 			{
-				"buffer_size": 1606,
+				"buffer_size": 1582,
 				"line_ending": "Windows"
 			}
 		}
@@ -88,6 +88,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Drew/AppData/Roaming/.minecraft/assets/indexes/1.7.10.json",
 		"/C/Users/Drew/Documents/GitHub/rawrsor.github.io/Final Code/chapter-10/using-external-css.html",
 		"/C/Users/Drew/Documents/GitHub/rawrsor.github.io/Final Code/chapter-10/using-internal-css.html",
 		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/spy_blue.res",
@@ -228,7 +229,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -257,7 +258,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -295,15 +296,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1606,
+						"buffer_size": 1582,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								281,
-								281
+								445,
+								445
 							]
 						],
 						"settings":
@@ -316,7 +317,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
