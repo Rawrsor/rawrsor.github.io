@@ -1,0 +1,12 @@
+@font-face{
+	font-family:'AntiGravLogos';
+	src: url('../AntiGravLogos.ttf') format('ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.antigrav{}
+
+.logo:after {
+	font-family:'AntiGravLogos';
+}
